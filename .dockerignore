@@ -1,0 +1,7 @@
+/Dockerfile
+/diagrams/*
+/.ipynb_checkpoints/
+.metals/
+.bloop/
+.ammonite/
+metals.sbt
